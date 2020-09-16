@@ -1,6 +1,6 @@
 {
   "name": "ccsh",
-  "version": "0.0.17",
+  "version": "0.1.2",
   "description": "小程序组件",
   "main": "dist/index.js",
   "files": [
